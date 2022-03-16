@@ -19,3 +19,13 @@
 <p> Nessa aula foi introduzido como se cria um README de forma que fique tudo claro a respeito do repositório no GitHub<p>
 
 - [x] Exercício 4 Concluído
+
+### :computer: Começando
+<p>Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:<p>
+
+git clone https://github.com/gabialmada11/C214-L1.git
+
+### :mortar_board: Autores
+
+- Gabriela Almada
+

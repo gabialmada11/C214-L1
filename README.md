@@ -27,5 +27,5 @@ git clone https://github.com/gabialmada11/C214-L1.git
 
 ### :mortar_board: Autores
 
-- Gabriela Almada
+- Gabriela Almada Paranhos de Melo
 

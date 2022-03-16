@@ -1,4 +1,21 @@
 <h1 align  ="center"> Exercícios C214 - L1</h1>
 
-### :pencil2: Descrição do projeto
-<p> Nesse repositório irei anexar todos os exercícios realizados na aula do laboratório de C214 (Engenharia de Software)<p>
+### :pencil2: Descrição do Exercicio 1
+<p> Nessa aula foi introduzido uma revisão sobre Programação Orientada a Objeto em JavaScript<p>
+
+- [x] Exercício 1 Concluído
+
+### :pencil2: Descrição do Exercicio 2
+<p> Nessa aula foi introduzido o conceito de Node e JavaScript<p>
+
+- [x] Exercício 2 Concluído
+
+### :pencil2: Descrição do Exercicio 3
+<p> Nessa aula foi introduzido os conhecimentos sobre GitHub e como criar um repositório <p>
+
+- [x] Exercício 3 Concluído
+
+### :pencil2: Descrição do Exercicio 4
+<p> Nessa aula foi introduzido como se cria um README de forma que fique tudo claro a respeito do repositório no GitHub<p>
+
+- [x] Exercício 4 Concluído
